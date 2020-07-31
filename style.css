@@ -1,0 +1,42 @@
+.header{
+    box-shadow: 10px 0px 10px gray;
+    padding: 8px 0px;
+}
+.tools-area{
+    margin-top: 70px;
+}
+
+.tool-title{
+    font-size: 15px;
+    color: #666666;
+}
+
+.card{
+    padding: 10px;
+}
+.card-deck{
+    margin-bottom: 30px;
+}
+
+.developer-name{
+    font-size: 25px;
+}
+.developer-title{
+    font-size: 15px;
+    color: #5f5e5e;
+    margin-top: 10px;
+}
+.card-img-top:hover{
+    border: 1px solid orangered;
+    border-radius: 5px;
+}
+
+.card a{
+    text-decoration: none;
+    text-align: center;
+    
+  }
+.card a:hover{
+    color: orangered;
+    cursor: pointer;
+}
